@@ -1,0 +1,23 @@
+command_id: 701.709.220103
+test_cases:
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 5844
+  response: 70907620103010016D4
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 5845
+  response: 70907620103010016D5
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 5846
+  response: 70907620103010016D6
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 5847
+  response: 70907620103010016D7
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 5848
+  response: 70907620103010016D8
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 5849
+  response: 70907620103010016D9
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 5850
+  response: 70907620103010016DA
