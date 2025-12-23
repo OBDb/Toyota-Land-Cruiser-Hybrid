@@ -1,11 +1,11 @@
 command_id: 750.758.221005|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    LANDCRUISERHYBRID_TP_5: 46.90909
+    LANDCRUISERHYBRID_TP_5: 45.21212
   response: |-
     7582A100D6210050000
     7582A21000000000000
-    7582A2200D900000000
+    7582A2200D200000000
 - expected_values:
     LANDCRUISERHYBRID_TP_4: 31.63636
   response: |-
