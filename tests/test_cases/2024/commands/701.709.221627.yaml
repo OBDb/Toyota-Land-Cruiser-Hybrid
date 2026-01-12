@@ -1,0 +1,17 @@
+command_id: 701.709.221627
+test_cases:
+- expected_values:
+    LANDCRUISERHYBRID_TF1_PAN: 89.6
+  response: '709056216274800'
+- expected_values:
+    LANDCRUISERHYBRID_TF1_PAN: 91.4
+  response: '709056216274900'
+- expected_values:
+    LANDCRUISERHYBRID_TF1_PAN: 93.2
+  response: 709056216274A00
+- expected_values:
+    LANDCRUISERHYBRID_TF1_PAN: 95
+  response: 709056216274B00
+- expected_values:
+    LANDCRUISERHYBRID_TF1_PAN: 96.8
+  response: 709056216274C00

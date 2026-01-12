@@ -1,0 +1,29 @@
+command_id: 7C0.7C8.221022|fc=1
+test_cases:
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 39.83
+  response: 7C8056210220F8F
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 40.65
+  response: 7C8056210220FE1
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 41.05
+  response: 7C8056210221009
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 41.91
+  response: 7C805621022105F
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 42.17
+  response: 7C8056210221079
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 42.18
+  response: 7C805621022107A
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 42.19
+  response: 7C805621022107B
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 42.2
+  response: 7C805621022107C
+- expected_values:
+    LANDCRUISERHYBRID_FLV: 42.25
+  response: 7C8056210221081
