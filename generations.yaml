@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser"
+
 generations:
   - name: "J200 Series Hybrid (Limited Markets)"
     start_year: 2015
