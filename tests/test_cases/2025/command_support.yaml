@@ -82,6 +82,7 @@ supported_commands_by_ecu:
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
   - 7E0.015C:EOT
   - 7E0.015E:FUEL_RATE
+  - 7E0.01A6:ODO
   "7E1":
   - 7E1.7E9.0142
   "7E2":
@@ -151,7 +152,6 @@ unsupported_commands_by_ecu:
   - 7E0.0144:EQ_RAT
   - 7E0.0147:TP_B
   - 7E0.0162:TQ_ACT
-  - 7E0.01A6:ODO
   - 7E0.7E8.2121:LANDCRUISERHYBRID_CC_S
   - 7E0.7E8.2128
   - 7E0.7E8.2151
