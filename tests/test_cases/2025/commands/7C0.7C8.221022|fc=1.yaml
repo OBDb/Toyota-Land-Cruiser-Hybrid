@@ -4,11 +4,11 @@ test_cases:
     LANDCRUISERHYBRID_FLV: 6.31
   response: 7C8056210220277
 - expected_values:
+    LANDCRUISERHYBRID_FLV: 10.23
+  response: 7C80562102203FF
+- expected_values:
     LANDCRUISERHYBRID_FLV: 12.8
   response: 7C8056210220500
-- expected_values:
-    LANDCRUISERHYBRID_FLV: 15.35
-  response: 7C80562102205FF
 - expected_values:
     LANDCRUISERHYBRID_FLV: 66.56
   response: 7C8056210221A00
