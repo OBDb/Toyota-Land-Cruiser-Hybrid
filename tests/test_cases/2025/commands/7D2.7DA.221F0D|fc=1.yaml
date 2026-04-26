@@ -4,5 +4,5 @@ test_cases:
     LANDCRUISERHYBRID_VSS_V2: 0
   response: 7DA04621F0D00
 - expected_values:
-    LANDCRUISERHYBRID_VSS_V2: 54
-  response: 7DA04621F0D36
+    LANDCRUISERHYBRID_VSS_V2: 120
+  response: 7DA04621F0D78
