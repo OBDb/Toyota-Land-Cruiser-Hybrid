@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     LANDCRUISERHYBRID_ODO_V5: 11319
   response: 7090762010302002C37
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 35811
+  response: 7090762010302008BE3
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 35813
+  response: 7090762010302008BE5
+- expected_values:
+    LANDCRUISERHYBRID_ODO_V5: 35814
+  response: 7090762010302008BE6
