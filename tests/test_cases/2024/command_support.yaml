@@ -56,6 +56,8 @@ supported_commands_by_ecu:
   - 0146:AAT
   - 0147:TP_B
   - 7E0.0131:CLR_DIST
+  "7E5":
+  - 7E5.7ED.0131
 unsupported_commands_by_ecu:
   "7B0":
   - 7B0.7B8.2147:LANDCRUISERHYBRID_LAT_G,LANDCRUISERHYBRID_LNG_G,LANDCRUISERHYBRID_STEER_ANGLE,LANDCRUISERHYBRID_YAW_RATE
@@ -98,7 +100,6 @@ unsupported_commands_by_ecu:
   "7E5":
   - 7E5.7ED.0104
   - 7E5.7ED.0105
-  - 7E5.7ED.0131
   "7E6":
   - 7E6.7EE.0104
   - 7E6.7EE.0105
