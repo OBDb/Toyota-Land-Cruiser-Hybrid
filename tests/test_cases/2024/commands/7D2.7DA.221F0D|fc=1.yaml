@@ -1,20 +1,20 @@
 command_id: 7D2.7DA.221F0D|fc=1
 test_cases:
 - expected_values:
-    LANDCRUISERHYBRID_VSS_V2: 0
+    LCH_VSS_V2: 0
   response: 7DA04621F0D00
 - expected_values:
-    LANDCRUISERHYBRID_VSS_V2: 3
+    LCH_VSS_V2: 3
   response: 7DA04621F0D03
 - expected_values:
-    LANDCRUISERHYBRID_VSS_V2: 5
+    LCH_VSS_V2: 5
   response: 7DA04621F0D05
 - expected_values:
-    LANDCRUISERHYBRID_VSS_V2: 18
+    LCH_VSS_V2: 18
   response: 7DA04621F0D12
 - expected_values:
-    LANDCRUISERHYBRID_VSS_V2: 38
+    LCH_VSS_V2: 38
   response: 7DA04621F0D26
 - expected_values:
-    LANDCRUISERHYBRID_VSS_V2: 41
+    LCH_VSS_V2: 41
   response: 7DA04621F0D29

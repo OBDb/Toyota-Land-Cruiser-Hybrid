@@ -1,14 +1,14 @@
 command_id: 7C0.7C8.221022|fc=1
 test_cases:
 - expected_values:
-    LANDCRUISERHYBRID_FLV: 5.03
+    LCH_FLV: 5.03
   response: 7C80562102201F7
 - expected_values:
-    LANDCRUISERHYBRID_FLV: 7.67
+    LCH_FLV: 7.67
   response: 7C80562102202FF
 - expected_values:
-    LANDCRUISERHYBRID_FLV: 7.76
+    LCH_FLV: 7.76
   response: 7C8056210220308
 - expected_values:
-    LANDCRUISERHYBRID_FLV: 41.05
+    LCH_FLV: 41.05
   response: 7C8056210221009

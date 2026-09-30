@@ -1,8 +1,8 @@
 command_id: 701.709.221627
 test_cases:
 - expected_values:
-    LANDCRUISERHYBRID_TF1_PAN: 66.2
+    LCH_TF1_PAN: 66.2
   response: 709056216273B00
 - expected_values:
-    LANDCRUISERHYBRID_TF1_PAN: 154.4
+    LCH_TF1_PAN: 154.4
   response: 709056216276C00

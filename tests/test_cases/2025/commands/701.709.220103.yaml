@@ -1,17 +1,17 @@
 command_id: 701.709.220103
 test_cases:
 - expected_values:
-    LANDCRUISERHYBRID_ODO_V5: 5844
+    LCH_ODO_V5: 5844
   response: 70907620103010016D4
 - expected_values:
-    LANDCRUISERHYBRID_ODO_V5: 7921
+    LCH_ODO_V5: 7921
   response: 7090762010302001EF1
 - expected_values:
-    LANDCRUISERHYBRID_ODO_V5: 7939
+    LCH_ODO_V5: 7939
   response: 7090762010302001F03
 - expected_values:
-    LANDCRUISERHYBRID_ODO_V5: 8952
+    LCH_ODO_V5: 8952
   response: 70907620103020022F8
 - expected_values:
-    LANDCRUISERHYBRID_ODO_V5: 10254
+    LCH_ODO_V5: 10254
   response: 709076201030200280E
