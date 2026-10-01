@@ -1,0 +1,11 @@
+command_id: 701.709.22161A
+test_cases:
+- expected_values:
+    LCH_NT_SPD: 0
+  response: 7090562161A0000
+- expected_values:
+    LCH_NT_SPD: 1769
+  response: 7090562161A06E9
+- expected_values:
+    LCH_NT_SPD: 2130
+  response: 7090562161A0852

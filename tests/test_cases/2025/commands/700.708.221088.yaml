@@ -1,0 +1,26 @@
+command_id: 700.708.221088
+test_cases:
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 0
+  response: '708056210880000'
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 0.16599
+  response: '708056210880011'
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 0.55656
+  response: '708056210880039'
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 0.63468
+  response: '708056210880041'
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 14.69519
+  response: '7080562108805E1'
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 16.76521
+  response: 7080562108806B5
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 34.81931
+  response: 708056210880DEE
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 38.85194
+  response: 708056210880F8B

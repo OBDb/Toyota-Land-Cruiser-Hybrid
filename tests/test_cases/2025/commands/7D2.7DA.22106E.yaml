@@ -1,0 +1,20 @@
+command_id: 7D2.7DA.22106E
+test_cases:
+- expected_values:
+    LCH_AC_POWER_CONS: 0
+  response: 7DA0462106E00
+- expected_values:
+    LCH_AC_POWER_CONS: 0.4
+  response: 7DA0462106E08
+- expected_values:
+    LCH_AC_POWER_CONS: 0.45
+  response: 7DA0462106E09
+- expected_values:
+    LCH_AC_POWER_CONS: 0.6
+  response: 7DA0462106E0C
+- expected_values:
+    LCH_AC_POWER_CONS: 0.65
+  response: 7DA0462106E0D
+- expected_values:
+    LCH_AC_POWER_CONS: 1.15
+  response: 7DA0462106E17

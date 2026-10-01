@@ -1,0 +1,38 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 31.875
+  response: '708056210417373'
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 81.875
+  response: 7080562104173C3
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 83.125
+  response: 7080562104173C5
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 83.75
+  response: 7080562104173C6
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 84.375
+  response: 7080562104173C7
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 86.25
+  response: 7080562104173CA
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 86.875
+  response: 7080562104173CB
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 87.5
+  response: 7080562104173CC
+- expected_values:
+    LCH_ECT_IGN: 31.875
+    LCH_ECT_INIT: 91.25
+  response: 7080562104173D2

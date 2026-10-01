@@ -1,0 +1,8 @@
+command_id: 700.708.22108D
+test_cases:
+- expected_values:
+    LCH_INTAKE_VVT_OVER_RET_LEARN_B1: 31.56249
+  response: 7080562108D0CA0
+- expected_values:
+    LCH_INTAKE_VVT_OVER_RET_LEARN_B1: 32.42186
+  response: 7080562108D0CF8

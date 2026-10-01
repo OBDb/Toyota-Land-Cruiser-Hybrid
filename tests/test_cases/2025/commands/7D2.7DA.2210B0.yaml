@@ -1,0 +1,10 @@
+command_id: 7D2.7DA.2210B0
+test_cases:
+- expected_values:
+    LCH_VH_V_AFTER_BOOSTING: 299.5
+    LCH_VL_V_BEFORE_BOOSTING: 299.5
+  response: 7DA076210B002570257
+- expected_values:
+    LCH_VH_V_AFTER_BOOSTING: 356
+    LCH_VL_V_BEFORE_BOOSTING: 356
+  response: 7DA076210B002C802C8

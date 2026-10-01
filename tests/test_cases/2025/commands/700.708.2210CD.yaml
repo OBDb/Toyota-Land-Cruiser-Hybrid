@@ -1,0 +1,14 @@
+command_id: 700.708.2210CD
+test_cases:
+- expected_values:
+    LCH_LFP: 396.3
+  response: 708056210CD8F7B
+- expected_values:
+    LCH_LFP: 462
+  response: 708056210CD920C
+- expected_values:
+    LCH_LFP: 485.2
+  response: 708056210CD92F4
+- expected_values:
+    LCH_LFP: 545.5
+  response: 708056210CD954F

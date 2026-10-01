@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.220103|fc=1
+test_cases:
+- expected_values:
+    LCH_ODO_V2_7D2: 20169
+  response: 7DA0762010302004EC9
+- expected_values:
+    LCH_ODO_V2_7D2: 20188
+  response: 7DA0762010302004EDC
