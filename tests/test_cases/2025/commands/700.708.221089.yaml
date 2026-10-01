@@ -1,0 +1,14 @@
+command_id: 700.708.221089
+test_cases:
+- expected_values:
+    LCH_EXHAUST_VVT_HOLD_LEARN_B1: 63.49217
+  response: 7080562108928A5
+- expected_values:
+    LCH_EXHAUST_VVT_HOLD_LEARN_B1: 65.87198
+  response: 708056210892A2B
+- expected_values:
+    LCH_EXHAUST_VVT_HOLD_LEARN_B1: 68.71556
+  response: 708056210892BFD
+- expected_values:
+    LCH_EXHAUST_VVT_HOLD_LEARN_B1: 69.63697
+  response: 708056210892C94

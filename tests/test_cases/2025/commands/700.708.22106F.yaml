@@ -1,0 +1,26 @@
+command_id: 700.708.22106F
+test_cases:
+- expected_values:
+    LCH_INTAKE_VVT_TARGET_ANGLE_B1: 0
+  response: 7080562106F0000
+- expected_values:
+    LCH_INTAKE_VVT_TARGET_ANGLE_B1: 15.01741
+  response: 7080562106F0602
+- expected_values:
+    LCH_INTAKE_VVT_TARGET_ANGLE_B1: 16.49182
+  response: 7080562106F0699
+- expected_values:
+    LCH_INTAKE_VVT_TARGET_ANGLE_B1: 16.89215
+  response: 7080562106F06C2
+- expected_values:
+    LCH_INTAKE_VVT_TARGET_ANGLE_B1: 26.07054
+  response: 7080562106F0A6E
+- expected_values:
+    LCH_INTAKE_VVT_TARGET_ANGLE_B1: 27.18367
+  response: 7080562106F0AE0
+- expected_values:
+    LCH_INTAKE_VVT_TARGET_ANGLE_B1: 42.75764
+  response: 7080562106F111B
+- expected_values:
+    LCH_INTAKE_VVT_TARGET_ANGLE_B1: 44.99366
+  response: 7080562106F1200

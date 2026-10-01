@@ -1,0 +1,47 @@
+command_id: 700.708.221059
+test_cases:
+- expected_values:
+    LCH_ACCEL_PEDAL: 0.00024
+  response: |-
+    708100A621059295229
+    7082152000000000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 9.85939
+  response: |-
+    708100A621059376029
+    7082152068000000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 18.3101
+  response: |-
+    708100A621059436D29
+    70821520D6B00000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 19.71855
+  response: |-
+    708100A621059456E29
+    70821520D4200000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 19.71855
+  response: |-
+    708100A621059456E29
+    70821520DC700000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 21.83123
+  response: |-
+    708100A621059487129
+    70821520F3300000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 24.64813
+  response: |-
+    708100A6210594C7529
+    7082152120500000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 26.05658
+  response: |-
+    708100A6210594E772A
+    7082153126600000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 27.46503
+  response: |-
+    708100A62105950792A
+    7082153132E00000000

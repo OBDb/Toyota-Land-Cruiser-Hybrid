@@ -10,5 +10,5 @@ test_cases:
     LCH_FLV: 7.76
   response: 7C8056210220308
 - expected_values:
-    LCH_FLV: 41.05
-  response: 7C8056210221009
+    LCH_FLV: null
+  response: 7C805621022FFFF

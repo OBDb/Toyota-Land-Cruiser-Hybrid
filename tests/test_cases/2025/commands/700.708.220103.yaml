@@ -1,0 +1,8 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    LCH_ENG_ODO: 20169
+  response: 7080762010302004EC9
+- expected_values:
+    LCH_ENG_ODO: 20188
+  response: 7080762010302004EDC

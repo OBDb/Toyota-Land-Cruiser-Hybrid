@@ -1,0 +1,14 @@
+command_id: 700.708.221002
+test_cases:
+- expected_values:
+    LCH_12V_V: 12.71969
+  response: 7080562100228B4
+- expected_values:
+    LCH_12V_V: 12.80758
+  response: 7080562100228FC
+- expected_values:
+    LCH_12V_V: 12.82712
+  response: 70805621002290C
+- expected_values:
+    LCH_12V_V: 14.082
+  response: 708056210022D10

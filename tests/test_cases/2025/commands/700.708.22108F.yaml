@@ -1,0 +1,14 @@
+command_id: 700.708.22108F
+test_cases:
+- expected_values:
+    LCH_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.43746
+  response: 7080562108F2760
+- expected_values:
+    LCH_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.62301
+  response: 7080562108F2773
+- expected_values:
+    LCH_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.75973
+  response: 7080562108F2781
+- expected_values:
+    LCH_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.84762
+  response: 7080562108F278A
