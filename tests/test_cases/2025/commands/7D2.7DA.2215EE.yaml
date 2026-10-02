@@ -4,8 +4,8 @@ test_cases:
     LCH_12V_V_7D2: 12.90618
   response: 7DA056215EE2906
 - expected_values:
-    LCH_12V_V_7D2: 14.1641
-  response: 7DA056215EE2D58
+    LCH_12V_V_7D2: 13.53514
+  response: 7DA056215EE2BB6
 - expected_values:
     LCH_12V_V_7D2: 14.1641
-  response: 7DA056215EE2D70
+  response: 7DA056215EE2D58

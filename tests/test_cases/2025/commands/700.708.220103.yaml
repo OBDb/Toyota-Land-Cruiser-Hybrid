@@ -4,5 +4,5 @@ test_cases:
     LCH_ENG_ODO: 20169
   response: 7080762010302004EC9
 - expected_values:
-    LCH_ENG_ODO: 20188
-  response: 7080762010302004EDC
+    LCH_ENG_ODO: 20207
+  response: 7080762010302004EEF
