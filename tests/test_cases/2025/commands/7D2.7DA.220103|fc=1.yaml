@@ -4,5 +4,5 @@ test_cases:
     LCH_ODO_V2_7D2: 20169
   response: 7DA0762010302004EC9
 - expected_values:
-    LCH_ODO_V2_7D2: 20188
-  response: 7DA0762010302004EDC
+    LCH_ODO_V2_7D2: 20207
+  response: 7DA0762010302004EEF
