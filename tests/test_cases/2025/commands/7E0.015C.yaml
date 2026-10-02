@@ -7,5 +7,8 @@ test_cases:
     EOT: 33
   response: 7E803415C49
 - expected_values:
+    EOT: 42
+  response: 7E803415C52
+- expected_values:
     EOT: 75
   response: 7E803415C73
