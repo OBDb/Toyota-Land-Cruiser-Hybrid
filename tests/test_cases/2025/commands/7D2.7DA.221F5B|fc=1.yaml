@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F5B|fc=1
 test_cases:
 - expected_values:
-    LCH_SOC: 38.03922
-  response: 7DA04621F5B61
+    LCH_SOC: 32.15686
+  response: 7DA04621F5B52
 - expected_values:
     LCH_SOC: 75.29412
   response: 7DA04621F5BC0
