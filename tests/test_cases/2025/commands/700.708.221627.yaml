@@ -4,8 +4,8 @@ test_cases:
     LCH_ATF_T_PAN_V3: 31.875
   response: '7080562162747E0'
 - expected_values:
-    LCH_ATF_T_PAN_V3: 40
-  response: '708056216275000'
+    LCH_ATF_T_PAN_V3: 35
+  response: 708056216274B00
 - expected_values:
     LCH_ATF_T_PAN_V3: 83.75
   response: 708056216277BC0
