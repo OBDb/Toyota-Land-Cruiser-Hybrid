@@ -1,11 +1,14 @@
 command_id: 700.708.221627
 test_cases:
 - expected_values:
-    LCH_ATF_T_PAN_V3: 31.875
-  response: '7080562162747E0'
+    LCH_ATF_T_PAN_V3: 12.5
+  response: '708056216273480'
 - expected_values:
-    LCH_ATF_T_PAN_V3: 35
-  response: 708056216274B00
+    LCH_ATF_T_PAN_V3: 15
+  response: '708056216273700'
 - expected_values:
-    LCH_ATF_T_PAN_V3: 93.75
-  response: 7080562162785C0
+    LCH_ATF_T_PAN_V3: 16.875
+  response: '7080562162738E0'
+- expected_values:
+    LCH_ATF_T_PAN_V3: 105
+  response: '708056216279100'
