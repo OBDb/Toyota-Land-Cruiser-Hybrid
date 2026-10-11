@@ -11,6 +11,18 @@ test_cases:
     7582A21000000000000
     7582A22000000000000
 - expected_values:
+    LCH_TP_5: 43.27273
+  response: |-
+    7582A100D6210050000
+    7582A21000000000000
+    7582A2200CA00000000
+- expected_values:
+    LCH_TP_4: 30.42424
+  response: |-
+    7582A100D6210050000
+    7582A21000000000095
+    7582A22000000000000
+- expected_values:
     LCH_TP_4: 32.84848
   response: |-
     7582A100D6210050000
