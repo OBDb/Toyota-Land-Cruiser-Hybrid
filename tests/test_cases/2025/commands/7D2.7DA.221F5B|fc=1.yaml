@@ -4,5 +4,8 @@ test_cases:
     LCH_SOC: 28.62745
   response: 7DA04621F5B49
 - expected_values:
-    LCH_SOC: 76.07843
-  response: 7DA04621F5BC2
+    LCH_SOC: 31.76471
+  response: 7DA04621F5B51
+- expected_values:
+    LCH_SOC: 78.82353
+  response: 7DA04621F5BC9

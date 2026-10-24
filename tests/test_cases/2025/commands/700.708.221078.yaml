@@ -6,3 +6,39 @@ test_cases:
     LCH_IDLE_SAC_CYL_3: 0
     LCH_IDLE_SAC_CYL_4: 0
   response: '7080762107800000000'
+- expected_values:
+    LCH_IDLE_SAC_CYL_1: 0
+    LCH_IDLE_SAC_CYL_2: 0
+    LCH_IDLE_SAC_CYL_3: 0
+    LCH_IDLE_SAC_CYL_4: 1
+  response: '7080762107800000010'
+- expected_values:
+    LCH_IDLE_SAC_CYL_1: 0
+    LCH_IDLE_SAC_CYL_2: 0
+    LCH_IDLE_SAC_CYL_3: 1
+    LCH_IDLE_SAC_CYL_4: 0
+  response: '7080762107800001000'
+- expected_values:
+    LCH_IDLE_SAC_CYL_1: 1
+    LCH_IDLE_SAC_CYL_2: 0
+    LCH_IDLE_SAC_CYL_3: 0
+    LCH_IDLE_SAC_CYL_4: 0
+  response: '7080762107810000000'
+- expected_values:
+    LCH_IDLE_SAC_CYL_1: 1
+    LCH_IDLE_SAC_CYL_2: 1
+    LCH_IDLE_SAC_CYL_3: 0
+    LCH_IDLE_SAC_CYL_4: 0
+  response: '7080762107810100000'
+- expected_values:
+    LCH_IDLE_SAC_CYL_1: 2
+    LCH_IDLE_SAC_CYL_2: 0
+    LCH_IDLE_SAC_CYL_3: 0
+    LCH_IDLE_SAC_CYL_4: 0
+  response: '7080762107820000000'
+- expected_values:
+    LCH_IDLE_SAC_CYL_1: 3
+    LCH_IDLE_SAC_CYL_2: 0
+    LCH_IDLE_SAC_CYL_3: 0
+    LCH_IDLE_SAC_CYL_4: 0
+  response: '7080762107830000000'

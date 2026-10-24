@@ -1,14 +1,14 @@
 command_id: 700.708.221F3C
 test_cases:
 - expected_values:
-    LCH_CAT_T_11: 182.8
-  response: 70805621F3C08B4
+    LCH_CAT_T_11: 60.7
+  response: 70805621F3C03EF
 - expected_values:
-    LCH_CAT_T_11: 653.1
-  response: 70805621F3C1B13
+    LCH_CAT_T_11: 164.7
+  response: 70805621F3C07FF
 - expected_values:
-    LCH_CAT_T_11: 701.5
-  response: 70805621F3C1CF7
+    LCH_CAT_T_11: 190.4
+  response: 70805621F3C0900
 - expected_values:
-    LCH_CAT_T_11: 859.4
-  response: 70805621F3C2322
+    LCH_CAT_T_11: 856.4
+  response: 70805621F3C2304

@@ -4,8 +4,8 @@ test_cases:
     LCH_INJ_VOL: 0
   response: '708056210170000'
 - expected_values:
-    LCH_INJ_VOL: 7.3525
-  response: 708056210175BE8
+    LCH_INJ_VOL: 0.47969
+  response: 7080562101705FF
 - expected_values:
-    LCH_INJ_VOL: 11.54625
-  response: '708056210179054'
+    LCH_INJ_VOL: 13.38625
+  response: 70805621017A754

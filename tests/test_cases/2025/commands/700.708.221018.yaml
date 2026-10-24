@@ -4,5 +4,8 @@ test_cases:
     LCH_INJECTOR_PORT: 0
   response: '708056210180000'
 - expected_values:
-    LCH_INJECTOR_PORT: 8.085
-  response: 708056210181F95
+    LCH_INJECTOR_PORT: 2.559
+  response: 7080562101809FF
+- expected_values:
+    LCH_INJECTOR_PORT: 16.879
+  response: 7080562101841EF

@@ -1,14 +1,11 @@
 command_id: 7D2.7DA.2215F8
 test_cases:
 - expected_values:
-    LCH_12V_T: 29.6
-  response: 7DA056215F802B8
+    LCH_12V_T: 5.9
+  response: 7DA056215F801CB
 - expected_values:
-    LCH_12V_T: 29.7
-  response: 7DA056215F802B9
+    LCH_12V_T: 36.7
+  response: 7DA056215F802FF
 - expected_values:
-    LCH_12V_T: 29.8
-  response: 7DA056215F802BA
-- expected_values:
-    LCH_12V_T: 30
-  response: 7DA056215F802BC
+    LCH_12V_T: 36.8
+  response: 7DA056215F80300
