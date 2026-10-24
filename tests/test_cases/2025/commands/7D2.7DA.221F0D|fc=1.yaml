@@ -4,5 +4,5 @@ test_cases:
     LCH_VSS_V2: 0
   response: 7DA04621F0D00
 - expected_values:
-    LCH_VSS_V2: 134
-  response: 7DA04621F0D86
+    LCH_VSS_V2: 136
+  response: 7DA04621F0D88

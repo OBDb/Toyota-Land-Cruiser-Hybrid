@@ -2,10 +2,19 @@ command_id: 700.708.221019
 test_cases:
 - expected_values:
     LCH_INJECTION: DIRECT
-  response: 70807621019013C8000
+  response: 70807621019012C8640
+- expected_values:
+    LCH_INJECTION: DIRECT
+  response: '7080762101901338000'
+- expected_values:
+    LCH_INJECTION: DIRECT
+  response: 70807621019017B8B7D
 - expected_values:
     LCH_INJECTION: BOTH
-  response: '70807621019028E8000'
+  response: 70807621019026D8000
 - expected_values:
     LCH_INJECTION: BOTH
-  response: 7080762101902F68BB8
+  response: 7080762101902E48AF0
+- expected_values:
+    LCH_INJECTION: BOTH
+  response: 7080762101902FF8B1E

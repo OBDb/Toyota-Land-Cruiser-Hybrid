@@ -1,44 +1,68 @@
 command_id: 7D2.7DA.2210A1
 test_cases:
 - expected_values:
-    LCH_RPM: 0
-    LCH_TQ: -0.375
-  response: |-
-    7DA100C6210A1800080
-    7DA210001007FFD0400
-- expected_values:
-    LCH_RPM: 0
+    LCH_RPM: -3
     LCH_TQ: 0
   response: |-
-    7DA100C6210A1800080
+    7DA100C6210A17FFD80
     7DA2100010080000400
 - expected_values:
-    LCH_RPM: 1218
-    LCH_TQ: -195
+    LCH_RPM: -1
+    LCH_TQ: -0.375
   response: |-
-    7DA100C6210A184C279
-    7DA21C7040079E80400
+    7DA100C6210A17FFF80
+    7DA210001007FFD0400
 - expected_values:
-    LCH_RPM: 1769
-    LCH_TQ: -42.75
+    LCH_RPM: -1
+    LCH_TQ: -0.125
   response: |-
-    7DA100C6210A186E97E
-    7DA219304007EAA0400
+    7DA100C6210A17FFF80
+    7DA210001007FFF0000
 - expected_values:
-    LCH_RPM: 1905
-    LCH_TQ: -1.75
+    LCH_RPM: 0
+    LCH_TQ: -0.75
   response: |-
-    7DA100C6210A187717F
-    7DA21CE04007FF20400
+    7DA100C6210A1800080
+    7DA210001007FFA0400
 - expected_values:
-    LCH_RPM: 2184
-    LCH_TQ: -1.5
+    LCH_RPM: 0
+    LCH_TQ: 1.25
   response: |-
-    7DA100C6210A188887F
-    7DA21E504007FF40400
+    7DA100C6210A1800080
+    7DA210F0100800A0400
 - expected_values:
-    LCH_RPM: 2660
-    LCH_TQ: 6
+    LCH_RPM: 0
+    LCH_TQ: 5.5
   response: |-
-    7DA100C6210A18A6480
-    7DA212A040080300400
+    7DA100C6210A1800080
+    7DA21FE0100802C0400
+- expected_values:
+    LCH_RPM: 139
+    LCH_TQ: -15
+  response: |-
+    7DA100C6210A1808B7F
+    7DA217F04007F880400
+- expected_values:
+    LCH_RPM: 1073
+    LCH_TQ: -251
+  response: |-
+    7DA100C6210A1843178
+    7DA2130040078280400
+- expected_values:
+    LCH_RPM: 1330
+    LCH_TQ: 222.875
+  response: |-
+    7DA100C6210A1853287
+    7DA2106040086F70400
+- expected_values:
+    LCH_RPM: 2224
+    LCH_TQ: 162.25
+  response: |-
+    7DA100C6210A188B084
+    7DA21EE040285120400
+- expected_values:
+    LCH_RPM: 4088
+    LCH_TQ: -5
+  response: |-
+    7DA100C6210A18FF87F
+    7DA21D504007FD80400

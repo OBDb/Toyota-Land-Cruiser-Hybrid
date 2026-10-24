@@ -4,5 +4,5 @@ test_cases:
     LCH_COOLING_FAN_DUTY_RATIO: 0
   response: '7080462104600'
 - expected_values:
-    LCH_COOLING_FAN_DUTY_RATIO: 40
-  response: '7080462104650'
+    LCH_COOLING_FAN_DUTY_RATIO: 54.5
+  response: 708046210466D

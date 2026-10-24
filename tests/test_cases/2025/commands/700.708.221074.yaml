@@ -1,8 +1,11 @@
 command_id: 700.708.221074
 test_cases:
 - expected_values:
-    LCH_EOP_700: 1.01562
-  response: 70805621074000D
+    LCH_EOP_700: 0
+  response: '708056210740000'
 - expected_values:
-    LCH_EOP_700: 459.6875
-  response: 7080562107416FC
+    LCH_EOP_700: 19.92188
+  response: 7080562107400FF
+- expected_values:
+    LCH_EOP_700: 540.23438
+  response: 708056210741B03
