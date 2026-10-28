@@ -1,0 +1,20 @@
+command_id: 700.708.221F77
+test_cases:
+- expected_values:
+    LCH_IAT_B1S1: 17
+    LCH_IAT_B1S2: 22
+  response: |-
+    7081008621F7703393E
+    7082100000000000000
+- expected_values:
+    LCH_IAT_B1S1: 18
+    LCH_IAT_B1S2: 21
+  response: |-
+    7081008621F77033A3D
+    7082100000000000000
+- expected_values:
+    LCH_IAT_B1S1: 40
+    LCH_IAT_B1S2: 46
+  response: |-
+    7081008621F77035056
+    7082100000000000000

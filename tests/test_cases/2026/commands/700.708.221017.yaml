@@ -1,0 +1,11 @@
+command_id: 700.708.221017
+test_cases:
+- expected_values:
+    LCH_INJ_VOL: 0
+  response: '708056210170000'
+- expected_values:
+    LCH_INJ_VOL: 7.27906
+  response: 708056210175AFD
+- expected_values:
+    LCH_INJ_VOL: 9.36156
+  response: '708056210177505'

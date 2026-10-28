@@ -1,0 +1,17 @@
+command_id: 7C0.7C8.221022|fc=1
+test_cases:
+- expected_values:
+    LCH_FLV: 32.88
+  response: 7C8056210220CD8
+- expected_values:
+    LCH_FLV: 35.82
+  response: 7C8056210220DFE
+- expected_values:
+    LCH_FLV: 38.57
+  response: 7C8056210220F11
+- expected_values:
+    LCH_FLV: 67.1
+  response: 7C8056210221A36
+- expected_values:
+    LCH_FLV: null
+  response: 7C805621022FFFF

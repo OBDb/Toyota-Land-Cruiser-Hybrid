@@ -1,0 +1,32 @@
+command_id: 700.708.221059
+test_cases:
+- expected_values:
+    LCH_ACCEL_PEDAL: 0.00024
+  response: |-
+    708100A621059295229
+    7082152000000000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 9.15517
+  response: |-
+    708100A621059365F2A
+    708215305AB00000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 21.83123
+  response: |-
+    708100A621059487129
+    70821520FA600000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 22.53545
+  response: |-
+    708100A621059497229
+    70821520F0F00000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 25.35235
+  response: |-
+    708100A6210594D762A
+    7082153120000000000
+- expected_values:
+    LCH_ACCEL_PEDAL: 28.16925
+  response: |-
+    708100A621059517A29
+    7082152137800000000

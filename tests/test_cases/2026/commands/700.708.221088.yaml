@@ -1,0 +1,11 @@
+command_id: 700.708.221088
+test_cases:
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 0
+  response: '708056210880000'
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 4.6966
+  response: '7080562108801E1'
+- expected_values:
+    LCH_EXHAUST_VVT_ANGLE_B1: 38.30515
+  response: 708056210880F53

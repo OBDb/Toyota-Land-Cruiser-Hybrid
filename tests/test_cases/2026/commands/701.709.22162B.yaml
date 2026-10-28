@@ -1,0 +1,8 @@
+command_id: 701.709.22162B
+test_cases:
+- expected_values:
+    LCH_ATF_THERMAL_DEGRAD_EST: 178
+  response: 7090562162B00B2
+- expected_values:
+    LCH_ATF_THERMAL_DEGRAD_EST: 179
+  response: 7090562162B00B3

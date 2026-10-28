@@ -1,0 +1,11 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    LCH_FUEL_PUMP_DUTY_RATIO: 0
+  response: 7080562106A0000
+- expected_values:
+    LCH_FUEL_PUMP_DUTY_RATIO: 249.32927
+  response: 7080562106A0FF9
+- expected_values:
+    LCH_FUEL_PUMP_DUTY_RATIO: 282.62195
+  response: 7080562106A121B

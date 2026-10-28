@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.220103|fc=1
+test_cases:
+- expected_values:
+    LCH_ODO_V2_7D2: 4077
+  response: 7DA0762010302000FED
+- expected_values:
+    LCH_ODO_V2_7D2: 4092
+  response: 7DA0762010302000FFC
+- expected_values:
+    LCH_ODO_V2_7D2: 4103
+  response: 7DA0762010302001007
