@@ -1,0 +1,56 @@
+command_id: 7D2.7DA.221F9A
+test_cases:
+- expected_values:
+    LCH_HVBAT_C: 3.5
+    LCH_HVBAT_V: 297
+  response: |-
+    7DA1009621F9A0E004A
+    7DA2140002300000000
+- expected_values:
+    LCH_HVBAT_C: 1.8
+    LCH_HVBAT_V: 299
+  response: |-
+    7DA1009621F9A0E004A
+    7DA21C0001200000000
+- expected_values:
+    LCH_HVBAT_C: 5.3
+    LCH_HVBAT_V: 300
+  response: |-
+    7DA1009621F9A0E004B
+    7DA2100003500000000
+- expected_values:
+    LCH_HVBAT_C: -5.8
+    LCH_HVBAT_V: 301
+  response: |-
+    7DA1009621F9A0E004B
+    7DA2140FFC600000000
+- expected_values:
+    LCH_HVBAT_C: -3.2
+    LCH_HVBAT_V: 303
+  response: |-
+    7DA1009621F9A0E004B
+    7DA21C0FFE000000000
+- expected_values:
+    LCH_HVBAT_C: 15.8
+    LCH_HVBAT_V: 304
+  response: |-
+    7DA1009621F9A0E004C
+    7DA2100009E00000000
+- expected_values:
+    LCH_HVBAT_C: -0.2
+    LCH_HVBAT_V: 304
+  response: |-
+    7DA1009621F9A0E004C
+    7DA2100FFFE00000000
+- expected_values:
+    LCH_HVBAT_C: 0
+    LCH_HVBAT_V: 319
+  response: |-
+    7DA1009621F9A0E004F
+    7DA21C0000000000000
+- expected_values:
+    LCH_HVBAT_C: -75.2
+    LCH_HVBAT_V: 361
+  response: |-
+    7DA1009621F9A0E005A
+    7DA2140FD1000000000

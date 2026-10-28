@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.2215F8
+test_cases:
+- expected_values:
+    LCH_12V_T: 21.2
+  response: 7DA056215F80264
+- expected_values:
+    LCH_12V_T: 24.4
+  response: 7DA056215F80284

@@ -1,0 +1,18 @@
+command_id: 7D2.7DA.22106C|fc=1
+test_cases:
+- expected_values:
+    LCH_HVBAT_SOC_MAX: 48.5
+    LCH_HVBAT_SOC_MIN: 38.5
+  response: 7DA0662106C61614D
+- expected_values:
+    LCH_HVBAT_SOC_MAX: 64
+    LCH_HVBAT_SOC_MIN: 46
+  response: 7DA0662106C61805C
+- expected_values:
+    LCH_HVBAT_SOC_MAX: 56
+    LCH_HVBAT_SOC_MIN: 55.5
+  response: 7DA0662106C70706F
+- expected_values:
+    LCH_HVBAT_SOC_MAX: 56.5
+    LCH_HVBAT_SOC_MIN: 48.5
+  response: 7DA0662106C717161

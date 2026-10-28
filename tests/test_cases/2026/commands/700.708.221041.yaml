@@ -1,0 +1,14 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    LCH_ECT_IGN: 21.875
+    LCH_ECT_INIT: 21.875
+  response: '708056210416363'
+- expected_values:
+    LCH_ECT_IGN: 58.75
+    LCH_ECT_INIT: 63.75
+  response: 708056210419EA6
+- expected_values:
+    LCH_ECT_IGN: 58.75
+    LCH_ECT_INIT: 90
+  response: 708056210419ED0

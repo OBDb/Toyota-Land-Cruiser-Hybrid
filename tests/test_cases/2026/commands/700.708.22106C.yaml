@@ -1,0 +1,8 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    LCH_DIST_SINCE_BAT_DISC: 6428
+  response: 7080562106C191C
+- expected_values:
+    LCH_DIST_SINCE_BAT_DISC: 6490
+  response: 7080562106C195A

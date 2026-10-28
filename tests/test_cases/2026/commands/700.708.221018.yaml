@@ -1,0 +1,11 @@
+command_id: 700.708.221018
+test_cases:
+- expected_values:
+    LCH_INJECTOR_PORT: 0
+  response: '708056210180000'
+- expected_values:
+    LCH_INJECTOR_PORT: 4.603
+  response: 7080562101811FB
+- expected_values:
+    LCH_INJECTOR_PORT: 12.965
+  response: 7080562101832A5
