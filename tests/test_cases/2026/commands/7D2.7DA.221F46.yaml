@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F46
 test_cases:
 - expected_values:
-    LCH_AAT_7D2: 14
-  response: 7DA04621F4636
+    LCH_AAT_7D2: 11
+  response: 7DA04621F4633
 - expected_values:
     LCH_AAT_7D2: 30
   response: 7DA04621F4646

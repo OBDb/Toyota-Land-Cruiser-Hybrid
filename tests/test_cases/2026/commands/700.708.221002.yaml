@@ -4,11 +4,11 @@ test_cases:
     LCH_12V_V: 11.74802
   response: '708056210022598'
 - expected_values:
-    LCH_12V_V: 12.79294
-  response: 7080562100228F0
+    LCH_12V_V: 12.79782
+  response: 7080562100228F4
 - expected_values:
     LCH_12V_V: 12.81247
   response: '708056210022900'
 - expected_values:
-    LCH_12V_V: 14.15035
-  response: 708056210022D48
+    LCH_12V_V: 14.11129
+  response: 708056210022D28

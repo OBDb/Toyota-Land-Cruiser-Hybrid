@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     LCH_ATF_THERMAL_DEGRAD_EST: 179
   response: 7090562162B00B3
+- expected_values:
+    LCH_ATF_THERMAL_DEGRAD_EST: 180
+  response: 7090562162B00B4
+- expected_values:
+    LCH_ATF_THERMAL_DEGRAD_EST: 181
+  response: 7090562162B00B5

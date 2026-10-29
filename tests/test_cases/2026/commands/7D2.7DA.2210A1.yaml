@@ -2,10 +2,10 @@ command_id: 7D2.7DA.2210A1
 test_cases:
 - expected_values:
     LCH_RPM: 0
-    LCH_TQ: -0.25
+    LCH_TQ: -0.375
   response: |-
     7DA100C6210A1800080
-    7DA210001007FFE0400
+    7DA210001007FFD0400
 - expected_values:
     LCH_RPM: 0
     LCH_TQ: 0
@@ -13,35 +13,47 @@ test_cases:
     7DA100C6210A1800080
     7DA2100010080000000
 - expected_values:
-    LCH_RPM: 825
-    LCH_TQ: 33.375
+    LCH_RPM: 785
+    LCH_TQ: -19.75
   response: |-
-    7DA100C6210A1833981
-    7DA211C0400810B0400
+    7DA100C6210A183117F
+    7DA215A04007F620400
 - expected_values:
-    LCH_RPM: 848
-    LCH_TQ: 21.875
+    LCH_RPM: 819
+    LCH_TQ: 33.125
   response: |-
-    7DA100C6210A1835080
-    7DA21AE040080AF0400
+    7DA100C6210A1833380
+    7DA21FD040081090400
 - expected_values:
-    LCH_RPM: 1188
-    LCH_TQ: -5
+    LCH_RPM: 824
+    LCH_TQ: 33.875
   response: |-
-    7DA100C6210A184A47F
-    7DA21CF04007FD80400
+    7DA100C6210A1833881
+    7DA210C0400810F0400
 - expected_values:
-    LCH_RPM: 1261
-    LCH_TQ: -139.5
+    LCH_RPM: 830
+    LCH_TQ: 0
   response: |-
-    7DA100C6210A184ED7B
-    7DA218104007BA40400
+    7DA100C6210A1833E7F
+    7DA21FF040080000400
 - expected_values:
     LCH_RPM: 1381
     LCH_TQ: -212.75
   response: |-
     7DA100C6210A1856578
     7DA21F90400795A0400
+- expected_values:
+    LCH_RPM: 1448
+    LCH_TQ: 72.875
+  response: |-
+    7DA100C6210A185A882
+    7DA2145040082470400
+- expected_values:
+    LCH_RPM: 2559
+    LCH_TQ: 36.25
+  response: |-
+    7DA100C6210A189FF81
+    7DA2125040081220400
 - expected_values:
     LCH_RPM: 2745
     LCH_TQ: 38.375
