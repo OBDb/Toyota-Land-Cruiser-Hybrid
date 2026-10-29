@@ -4,5 +4,5 @@ test_cases:
     LCH_DIST_SINCE_BAT_DISC: 6428
   response: 7080562106C191C
 - expected_values:
-    LCH_DIST_SINCE_BAT_DISC: 6490
-  response: 7080562106C195A
+    LCH_DIST_SINCE_BAT_DISC: 6643
+  response: 7080562106C19F3

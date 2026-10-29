@@ -4,5 +4,5 @@ test_cases:
     LCH_TF1_PAN: 71.6
   response: '709056216273E00'
 - expected_values:
-    LCH_TF1_PAN: 131
-  response: 709056216275F00
+    LCH_TF1_PAN: 195.8
+  response: '709056216278300'

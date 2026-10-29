@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LCH_EXHAUST_VVT_OVER_ADV_LEARN_B1: 97.39254
   response: 7080562108F26F5
+- expected_values:
+    LCH_EXHAUST_VVT_OVER_ADV_LEARN_B1: 97.50973
+  response: 7080562108F2701

@@ -1,11 +1,11 @@
 command_id: 7D2.7DA.221F9A
 test_cases:
 - expected_values:
-    LCH_HVBAT_C: 3.5
-    LCH_HVBAT_V: 297
+    LCH_HVBAT_C: 15.1
+    LCH_HVBAT_V: 293
   response: |-
-    7DA1009621F9A0E004A
-    7DA2140002300000000
+    7DA1009621F9A0E0049
+    7DA2140009700000000
 - expected_values:
     LCH_HVBAT_C: 1.8
     LCH_HVBAT_V: 299
@@ -19,17 +19,11 @@ test_cases:
     7DA1009621F9A0E004B
     7DA2100003500000000
 - expected_values:
-    LCH_HVBAT_C: -5.8
+    LCH_HVBAT_C: -12.8
     LCH_HVBAT_V: 301
   response: |-
     7DA1009621F9A0E004B
-    7DA2140FFC600000000
-- expected_values:
-    LCH_HVBAT_C: -3.2
-    LCH_HVBAT_V: 303
-  response: |-
-    7DA1009621F9A0E004B
-    7DA21C0FFE000000000
+    7DA2140FF8000000000
 - expected_values:
     LCH_HVBAT_C: 15.8
     LCH_HVBAT_V: 304

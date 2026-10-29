@@ -5,10 +5,10 @@ test_cases:
   response: 70807621019013A8000
 - expected_values:
     LCH_INJECTION: BOTH
-  response: 70807621019026D8A82
+  response: 7080762101902558A4F
 - expected_values:
     LCH_INJECTION: BOTH
   response: 70807621019026D8A8C
 - expected_values:
     LCH_INJECTION: BOTH
-  response: '7080762101902838000'
+  response: '7080762101902E58000'

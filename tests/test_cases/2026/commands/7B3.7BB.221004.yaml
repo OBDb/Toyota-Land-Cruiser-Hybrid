@@ -2,16 +2,16 @@ command_id: 7B3.7BB.221004
 test_cases:
 - expected_values:
     LCH_STEERING_ANGLE: 0
-  response: 7BB06621004000006
+  response: 7BB06621004000002
+- expected_values:
+    LCH_STEERING_ANGLE: 4.5
+  response: 7BB06621004000300
 - expected_values:
     LCH_STEERING_ANGLE: 217.5
   response: 7BB066210040091FF
 - expected_values:
-    LCH_STEERING_ANGLE: -133.5
-  response: 7BB06621004FFA7F9
-- expected_values:
-    LCH_STEERING_ANGLE: -7.5
-  response: 7BB06621004FFFB00
+    LCH_STEERING_ANGLE: -157.5
+  response: 7BB06621004FF97FA
 - expected_values:
     LCH_STEERING_ANGLE: -1.5
-  response: 7BB06621004FFFF04
+  response: 7BB06621004FFFF02

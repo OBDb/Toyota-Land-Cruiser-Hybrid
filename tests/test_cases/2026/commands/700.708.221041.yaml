@@ -5,10 +5,10 @@ test_cases:
     LCH_ECT_INIT: 21.875
   response: '708056210416363'
 - expected_values:
-    LCH_ECT_IGN: 58.75
-    LCH_ECT_INIT: 63.75
-  response: 708056210419EA6
+    LCH_ECT_IGN: 86.875
+    LCH_ECT_INIT: 90.625
+  response: 70805621041CBD1
 - expected_values:
-    LCH_ECT_IGN: 58.75
-    LCH_ECT_INIT: 90
-  response: 708056210419ED0
+    LCH_ECT_IGN: 89.375
+    LCH_ECT_INIT: 80.625
+  response: 70805621041CFC1

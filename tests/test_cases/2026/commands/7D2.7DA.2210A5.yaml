@@ -1,6 +1,11 @@
 command_id: 7D2.7DA.2210A5
 test_cases:
 - expected_values:
+    LCH_MAX_MOTOR_INVERTER_T: 56
+    LCH_MOTOR_INVERTER_T: 22
+    LCH_MOTOR_INVERTER_T_ON: 31
+  response: 7DA066210A53E4760
+- expected_values:
     LCH_MAX_MOTOR_INVERTER_T: 24
     LCH_MOTOR_INVERTER_T: 24
     LCH_MOTOR_INVERTER_T_ON: 24

@@ -4,5 +4,5 @@ test_cases:
     LCH_EOT_V2_700: 21
   response: 70804621F5C3D
 - expected_values:
-    LCH_EOT_V2_700: 78
-  response: 70804621F5C76
+    LCH_EOT_V2_700: 88
+  response: 70804621F5C80
