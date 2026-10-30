@@ -10,8 +10,8 @@ test_cases:
     LCH_STEERING_ANGLE: 217.5
   response: 7BB066210040091FF
 - expected_values:
-    LCH_STEERING_ANGLE: -157.5
-  response: 7BB06621004FF97FA
+    LCH_STEERING_ANGLE: -253.5
+  response: 7BB06621004FF57FD
 - expected_values:
     LCH_STEERING_ANGLE: -1.5
   response: 7BB06621004FFFF02

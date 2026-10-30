@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LCH_DIST_SINCE_BAT_DISC: 6643
   response: 7080562106C19F3
+- expected_values:
+    LCH_DIST_SINCE_BAT_DISC: 6687
+  response: 7080562106C1A1F

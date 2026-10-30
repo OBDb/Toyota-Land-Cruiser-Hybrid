@@ -4,5 +4,5 @@ test_cases:
     LCH_ECU_INTERNAL_T: 23
   response: 7080462105E3F
 - expected_values:
-    LCH_ECU_INTERNAL_T: 45
-  response: '7080462105E55'
+    LCH_ECU_INTERNAL_T: 49
+  response: '7080462105E59'

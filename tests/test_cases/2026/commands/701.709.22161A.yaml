@@ -4,8 +4,8 @@ test_cases:
     LCH_NT_SPD: 0
   response: 7090562161A0000
 - expected_values:
-    LCH_NT_SPD: 1266
-  response: 7090562161A04F2
+    LCH_NT_SPD: 247
+  response: 7090562161A00F7
 - expected_values:
     LCH_NT_SPD: 2051
   response: 7090562161A0803

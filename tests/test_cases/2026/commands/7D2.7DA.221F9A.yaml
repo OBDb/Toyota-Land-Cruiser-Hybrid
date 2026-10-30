@@ -25,12 +25,6 @@ test_cases:
     7DA1009621F9A0E004B
     7DA2140FF8000000000
 - expected_values:
-    LCH_HVBAT_C: 15.8
-    LCH_HVBAT_V: 304
-  response: |-
-    7DA1009621F9A0E004C
-    7DA2100009E00000000
-- expected_values:
     LCH_HVBAT_C: -0.2
     LCH_HVBAT_V: 304
   response: |-
@@ -42,6 +36,12 @@ test_cases:
   response: |-
     7DA1009621F9A0E004F
     7DA21C0000000000000
+- expected_values:
+    LCH_HVBAT_C: -1.7
+    LCH_HVBAT_V: 321
+  response: |-
+    7DA1009621F9A0E0050
+    7DA2140FFEF00000000
 - expected_values:
     LCH_HVBAT_C: -75.2
     LCH_HVBAT_V: 361
