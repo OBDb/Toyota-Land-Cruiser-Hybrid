@@ -4,5 +4,5 @@ test_cases:
     LCH_AMBIENT_T: 16
   response: 70804621F4638
 - expected_values:
-    LCH_AMBIENT_T: 46
-  response: 70804621F4656
+    LCH_AMBIENT_T: 48
+  response: 70804621F4658

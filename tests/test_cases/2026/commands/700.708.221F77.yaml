@@ -7,6 +7,12 @@ test_cases:
     7081008621F77033339
     7082100000000000000
 - expected_values:
+    LCH_IAT_B1S1: 33
+    LCH_IAT_B1S2: 46
+  response: |-
+    7081008621F77034956
+    7082100000000000000
+- expected_values:
     LCH_IAT_B1S1: 40
     LCH_IAT_B1S2: 46
   response: |-

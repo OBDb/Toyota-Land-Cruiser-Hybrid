@@ -4,11 +4,11 @@ test_cases:
     LCH_LFP: 377.5
   response: 708056210CD8EBF
 - expected_values:
+    LCH_LFP: 409.2
+  response: 708056210CD8FFC
+- expected_values:
     LCH_LFP: 435.9
   response: 708056210CD9107
-- expected_values:
-    LCH_LFP: 588.2
-  response: 708056210CD96FA
 - expected_values:
     LCH_LFP: 619.2
   response: 708056210CD9830

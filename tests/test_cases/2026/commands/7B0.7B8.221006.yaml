@@ -4,5 +4,5 @@ test_cases:
     LCH_MASTER_CYL_TEMP: 23
   response: 7B8056210066700
 - expected_values:
-    LCH_MASTER_CYL_TEMP: 44
-  response: 7B8056210067C00
+    LCH_MASTER_CYL_TEMP: 46
+  response: 7B8056210067E00

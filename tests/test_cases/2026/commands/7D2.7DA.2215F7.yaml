@@ -10,5 +10,5 @@ test_cases:
     LCH_12V_C: 16.59022
   response: 7DA056215F790FD
 - expected_values:
-    LCH_12V_C: 17.26542
-  response: 7DA056215F791AE
+    LCH_12V_C: 17.06706
+  response: 7DA056215F7917A
