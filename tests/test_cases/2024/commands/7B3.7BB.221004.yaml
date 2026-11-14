@@ -1,0 +1,5 @@
+command_id: 7B3.7BB.221004
+test_cases:
+- expected_values:
+    LCH_STEERING_ANGLE: 34.5
+  response: 7BB06621004001706

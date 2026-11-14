@@ -1,0 +1,8 @@
+command_id: 700.708.221F3C
+test_cases:
+- expected_values:
+    LCH_CAT_T_11: 335
+  response: 70805621F3C0EA6
+- expected_values:
+    LCH_CAT_T_11: 338.2
+  response: 70805621F3C0EC6
