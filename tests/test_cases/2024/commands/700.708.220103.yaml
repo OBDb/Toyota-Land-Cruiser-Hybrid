@@ -1,0 +1,5 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    LCH_ENG_ODO: 14425
+  response: '7080762010302003859'

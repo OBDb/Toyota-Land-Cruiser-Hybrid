@@ -1,0 +1,5 @@
+command_id: 700.708.221074
+test_cases:
+- expected_values:
+    LCH_EOP_700: 0
+  response: '708056210740000'

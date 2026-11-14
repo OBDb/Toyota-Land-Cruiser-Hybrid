@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221040
+test_cases:
+- expected_values:
+    LCH_TRANSAXLE_OIL_T: 27
+  response: 7DA06621040C62043
+- expected_values:
+    LCH_TRANSAXLE_OIL_T: 27
+  response: 7DA06621040C63043

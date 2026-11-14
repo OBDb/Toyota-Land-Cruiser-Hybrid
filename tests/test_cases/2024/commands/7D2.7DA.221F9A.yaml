@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.221F9A
+test_cases:
+- expected_values:
+    LCH_HVBAT_C: 1.9
+    LCH_HVBAT_V: 308
+  response: |-
+    7DA1009621F9A0E004D
+    7DA2100001300000000
+- expected_values:
+    LCH_HVBAT_C: 4
+    LCH_HVBAT_V: 310
+  response: |-
+    7DA1009621F9A0E004D
+    7DA2180002800000000

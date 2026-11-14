@@ -1,0 +1,12 @@
+command_id: 7D2.7DA.220102
+test_cases:
+- expected_values:
+    LCH_KEY_CYCLE: 2688
+  response: |-
+    7DA100A6201020A8000
+    7DA2103666601000000
+- expected_values:
+    LCH_KEY_CYCLE: 2688
+  response: |-
+    7DA100A6201020A8000
+    7DA210421EB01000000
