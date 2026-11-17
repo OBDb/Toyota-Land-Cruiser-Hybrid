@@ -1,20 +1,26 @@
 command_id: 7D2.7DA.220103|fc=1
 test_cases:
 - expected_values:
-    LCH_ODO_V2_7D2: 5844
+    LCH_ODO_V2_7D2_RAW: 5844
+    LCH_ODO_V2_7D2_UNIT: KM
   response: 7DA07620103010016D4
 - expected_values:
-    LCH_ODO_V2_7D2: 4435
+    LCH_ODO_V2_7D2_RAW: 4435
+    LCH_ODO_V2_7D2_UNIT: MI
   response: 7DA0762010302001153
 - expected_values:
-    LCH_ODO_V2_7D2: 6533
+    LCH_ODO_V2_7D2_RAW: 6533
+    LCH_ODO_V2_7D2_UNIT: MI
   response: 7DA0762010302001985
 - expected_values:
-    LCH_ODO_V2_7D2: 6655
+    LCH_ODO_V2_7D2_RAW: 6655
+    LCH_ODO_V2_7D2_UNIT: MI
   response: 7DA07620103020019FF
 - expected_values:
-    LCH_ODO_V2_7D2: 6656
+    LCH_ODO_V2_7D2_RAW: 6656
+    LCH_ODO_V2_7D2_UNIT: MI
   response: 7DA0762010302001A00
 - expected_values:
-    LCH_ODO_V2_7D2: 20169
+    LCH_ODO_V2_7D2_RAW: 20169
+    LCH_ODO_V2_7D2_UNIT: MI
   response: 7DA0762010302004EC9
