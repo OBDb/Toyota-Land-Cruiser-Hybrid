@@ -1,8 +1,10 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    LCH_ENG_ODO: 20169
+    LCH_ENG_ODO_RAW: 20169
+    LCH_ENG_ODO_UNIT: MI
   response: 7080762010302004EC9
 - expected_values:
-    LCH_ENG_ODO: 20207
+    LCH_ENG_ODO_RAW: 20207
+    LCH_ENG_ODO_UNIT: MI
   response: 7080762010302004EEF

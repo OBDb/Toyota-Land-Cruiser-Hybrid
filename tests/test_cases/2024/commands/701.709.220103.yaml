@@ -1,23 +1,30 @@
 command_id: 701.709.220103
 test_cases:
 - expected_values:
-    LCH_ODO_V5: 11318
+    LCH_ODO_V5_RAW: 11318
+    LCH_ODO_V5_UNIT: MI
   response: 7090762010302002C36
 - expected_values:
-    LCH_ODO_V5: 11319
+    LCH_ODO_V5_RAW: 11319
+    LCH_ODO_V5_UNIT: MI
   response: 7090762010302002C37
 - expected_values:
-    LCH_ODO_V5: 35811
+    LCH_ODO_V5_RAW: 35811
+    LCH_ODO_V5_UNIT: MI
   response: 7090762010302008BE3
 - expected_values:
-    LCH_ODO_V5: 35813
+    LCH_ODO_V5_RAW: 35813
+    LCH_ODO_V5_UNIT: MI
   response: 7090762010302008BE5
 - expected_values:
-    LCH_ODO_V5: 35814
+    LCH_ODO_V5_RAW: 35814
+    LCH_ODO_V5_UNIT: MI
   response: 7090762010302008BE6
 - expected_values:
-    LCH_ODO_V5: 35818
+    LCH_ODO_V5_RAW: 35818
+    LCH_ODO_V5_UNIT: MI
   response: 7090762010302008BEA
 - expected_values:
-    LCH_ODO_V5: 35819
+    LCH_ODO_V5_RAW: 35819
+    LCH_ODO_V5_UNIT: MI
   response: 7090762010302008BEB

@@ -1,5 +1,6 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    LCH_ENG_ODO: 14425
+    LCH_ENG_ODO_RAW: 14425
+    LCH_ENG_ODO_UNIT: MI
   response: '7080762010302003859'
